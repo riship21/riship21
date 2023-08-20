@@ -43,4 +43,12 @@
 
 ### Stats
 ![Rishi's GitHub stats](https://github-readme-stats.vercel.app/api?username=riship21&hide=contribs&show_icons=true&theme=gruvbox)
+
+<br>
+
+#
+
+### Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riship21&layout=pie)](https://github.com/riship21/github-readme-stats)
           
