@@ -1,7 +1,28 @@
-<span style="color:red;">Word up</span>
+# Rishi Patel
 
-\<!--
-**riship21/riship21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Virginia Tech Student { Class of ‘24 } | Computer Science`**
+
+<br>
+
+👋 Hey there, I'm Rishi Patel, a motivated senior at Virginia Tech pursuing a computer science degree.
+
+🧩 Problem-solving is my jam – I love applying logical thinking to tackle intricate challenges with code.
+
+🌱 Learning new languages and solving real-world problems is where my passion shines.
+
+💻 My coding toolkit includes Java, Python, C, JavaScript, React.js, SQL, HTML, and CSS.
+
+🐳 Docker, GIT, Unit Testing, Excel, networking, delegation, and time management are all part of my arsenal.
+
+🚀 My GitHub projects are proof of my versatile coding skills, but I'm always up for fresh challenges.
+
+🌟 I'm committed to personal growth through internships and clubs, both within and beyond my field.
+
+🔎 Exploring new horizons is my thing – I'm actively on the lookout for fall 2023 and spring 2024 internships.
+
+🎓 Come May 2024, I'll be ready for full-time opportunities that allow me to keep growing and learning.
+
+<br>
 
 ### Languages And Tools:
 <img align= "left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
