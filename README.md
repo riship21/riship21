@@ -21,7 +21,7 @@
 
 🔎 Exploring new horizons is my thing – I'm actively on the lookout for fall 2023 and spring 2024 internships.
 
-🎓 Come May 2024, I'll be ready for full-time opportunities that allow me to keep growing and learning.
+🎓 Coming May 2024, I'll be ready for full-time opportunities that allow me to keep growing and learning.
 
 #
 
