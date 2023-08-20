@@ -1,5 +1,6 @@
 # Rishi Patel
 
+
 **`Virginia Tech Student { Class of ‘24 } | Computer Science`**
 
 <br>
@@ -22,7 +23,7 @@
 
 🎓 Come May 2024, I'll be ready for full-time opportunities that allow me to keep growing and learning.
 
-<br>
+#
 
 ### Languages And Tools:
 <img align= "left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
@@ -36,4 +37,10 @@
 <img align= "left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
 <img align= "left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
 
+<br>
+
+#
+
+### Stats
+![Rishi's GitHub stats](https://github-readme-stats.vercel.app/api?username=riship21&hide=contribs&show_icons=true&theme=gruvbox)
           
