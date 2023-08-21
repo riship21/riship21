@@ -19,6 +19,8 @@
 
 🌟 I'm committed to personal growth through internships and clubs, both within and beyond my field.
 
+🎉 Hobbies: ⚽ Playing sports, 👫 Going out with friends, 💰 Collecting currencies of different countries.
+
 🔎 Exploring new horizons is my thing – I'm actively on the lookout for fall 2023 and spring 2024 internships.
 
 🎓 Coming May 2024, I'll be ready for full-time opportunities that allow me to keep growing and learning.
