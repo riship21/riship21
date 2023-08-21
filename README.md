@@ -1,7 +1,7 @@
 # 👨‍🎓 Rishi Patel
 
 
-**`Virginia Tech Student { Class of ‘24 } | Computer Science`**
+**`Virginia Tech Class of ‘24 | Computer Science`**
 
 <br>
 
