@@ -9,7 +9,7 @@
 
 🧩 Problem-solving is my jam – I love applying logical thinking to tackle intricate challenges with code.
 
-🌱 Learning new languages and solving real-world problems is where my passion shines.
+🌱 Learning new languages and solving real-world problems is my passion.
 
 💻 My coding toolkit includes Java, Python, C, JavaScript, React.js, SQL, HTML, and CSS.
 
